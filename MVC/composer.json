@@ -1,0 +1,16 @@
+{
+    "name": "ahmed/mvc",
+    "description": "MVC [EraaSoft Task]",
+    "autoload": {
+        "psr-4": {
+            "Ahmed\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed Hisham",
+            "email": "ahmedhishamkamal@icloud.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => 'ahmed/mvc',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '28d12913328c844ecbad58eae5e231a9718b2ac9',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        'ahmed/mvc' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '28d12913328c844ecbad58eae5e231a9718b2ac9',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'filp/whoops' => array(
+            'pretty_version' => '2.14.6',
+            'version' => '2.14.6.0',
+            'reference' => 'f7948baaa0330277c729714910336383286305da',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../filp/whoops',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'psr/log' => array(
+            'pretty_version' => '3.0.0',
+            'version' => '3.0.0.0',
+            'reference' => 'fe5ea303b0887d5caefd3d431c3e61ad47037001',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../psr/log',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);

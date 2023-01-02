@@ -18,4 +18,4 @@ echo "<pre>";
 print_r($data);
 
 
-// echo Env::env("DB_HOST");
+echo Env::env("DB_HOST");

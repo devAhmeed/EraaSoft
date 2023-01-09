@@ -9,7 +9,8 @@
   "authors": [
     {
       "name": "Ahmed Hisham",
-      "email": "ahmedhishamkamal@icloud.com"
+      "email": "ahmedhishamkamal@icloud.com",
+      "description" : "MVC Structure"
     }
   ],
   "require": {
